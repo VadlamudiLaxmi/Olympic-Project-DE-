@@ -10,7 +10,7 @@ Azure Data Factory is utilized for data ingestion, allowing seamless extraction 
 Azure Data Lake Gen2 serves as the storage solution for both raw and transformed data, providing scalability and durability for large datasets.
 ### Azure Databricks: 
 Azure Databricks is used for data transformation tasks, enabling efficient processing of data at scale using Apache Spark.
-### Azure Synapse Analytics: 
+### Azure Synapse Analytics:
 Azure Synapse Analytics is employed for data analysis, providing powerful querying capabilities and integration with various BI tools.
 ### Power BI: 
 Power BI is used for creating interactive dashboards and visualizations, allowing stakeholders to gain insights from the analyzed data.
